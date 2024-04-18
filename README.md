@@ -2,6 +2,7 @@
 Are you tired of typing the cover letter every time you apply for another job? This VBA file might be of some help!!!
 
 Objective
+
 In this project, I built a VBA file which autofill the important information of the cover letter and export the cover letter as a PDF file which is proven to be more error-proofing than a Word file if the employers want to view your cover letter.
 The main objective is to remove boring, repetitive tasks while some is preparing for the job application. It is designed to be as user-friendly as possible, there are user guides in the form of excel notes all over the main sheet.
 Tools of choice
