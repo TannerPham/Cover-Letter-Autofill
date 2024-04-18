@@ -93,6 +93,7 @@ WordDoc.Close False
 Set WordApp = Nothing
 Answer = MsgBox("The PDF file was exported successfully in the following directory: " & FileName & vbNewLine & "Do you want to open the file?", vbYesNo, "Exported Successfully")
 If Answer = vbYes Then ActiveWorkbook.FollowHyperlink FileName
+
 2. "get_bookmark_name" Sub
 a. Purpose
 Find all the bookmarks users have been created in the Word file and print them to the Excel sheet for name reference when the "info_autofill" sub is running.
